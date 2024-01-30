@@ -5,7 +5,7 @@ const menu = [
       category: "Korea",
       price: 10.99,
       img:
-        "https://twoplaidaprons.com/wp-content/uploads/2020/09/tteokbokki-top-down-view-of-tteokbokki-in-a-bowl-500x500.jpg",
+        "https://img-s1.onedio.com/id-61ba3f354341a07562e6bfbb/rev-0/w-600/h-399/f-jpg/s-264d580fa38d9f11e96dfc0054b2e20051e8e441.jpg",
       desc: `Spicy rice cakes, serving with fish cake.`,
     },
     {
@@ -14,7 +14,7 @@ const menu = [
       category: "Japan",
       price: 7.99,
       img:
-        "https://www.forkknifeswoon.com/wp-content/uploads/2014/10/simple-homemade-chicken-ramen-fork-knife-swoon-01.jpg",
+        "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
       desc: `Chicken noodle soup, serving with vegetables such as soy bean, green onion. In an optional you can ask for egg. `,
     },
     {
@@ -32,7 +32,7 @@ const menu = [
       category: "China",
       price: 5.99,
       img:
-        "https://www.savingdessert.com/wp-content/uploads/2019/02/Dan-Dan-Noodles-10.jpg",
+        "https://takestwoeggs.com/wp-content/uploads/2022/02/Dan-Dan-Noodles-Dan-Dan-Mian-5overhead-sq.jpg",
       desc: `Dan dan noodle, serving with green onion `,
     },
     {
